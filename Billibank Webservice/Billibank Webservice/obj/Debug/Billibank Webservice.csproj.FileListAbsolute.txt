@@ -1,0 +1,177 @@
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll.config
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.pdb
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe.config
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.rsp
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe.config
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.rsp
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.AppContext.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Console.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Http.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Sockets.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.ValueTuple.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe.config
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.rsp
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CopyComplete
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.dll
+C:\Users\johan\source\repos\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.pdb
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll.config
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.pdb
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe.config
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.rsp
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe.config
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.rsp
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.AppContext.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Console.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Http.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Sockets.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.ValueTuple.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe.config
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.rsp
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.AssemblyReference.cache
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CoreCompileInputs.cache
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CopyComplete
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.dll
+C:\Users\zozwe\Downloads\Billibank Webservice-20230531T164021Z-001\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.pdb
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll.config
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\Billibank Webservice.pdb
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.exe.config
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csc.rsp
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.exe.config
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\csi.rsp
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.AppContext.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Console.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.exe.config
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\vbc.rsp
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.AssemblyReference.cache
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CoreCompileInputs.cache
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.csproj.CopyComplete
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.dll
+C:\Users\Admin-Nkosi.N\Downloads\Billibank Webservice\Billibank Webservice\obj\Debug\Billibank Webservice.pdb
