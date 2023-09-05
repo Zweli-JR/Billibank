@@ -1,0 +1,135 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Malgun Gothic';
+}
+
+body{
+    background-color:rgb(223, 234, 250);
+}
+
+.wrapper{
+    margin: 0 20px;
+}
+
+.navbar {
+    background-color: rgb(35,47,57);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#logo {
+    padding: 15px;
+    width: 220px;
+}
+
+.nav-links {
+    text-decoration: none;
+    font-size: 23px;
+    color: aliceblue;
+    padding-right: 10px;
+}
+
+.buttons {
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    height: 30px;
+    width: 60px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.btn-logout {
+    margin: 0 20PX;
+    font-size:23px;
+    border:none;
+    background-color: transparent;
+    color: #8ec7ff;
+    cursor:pointer;
+}
+
+
+.underlined {
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+    text-decoration-thickness:from-font;
+}
+
+.name {
+    color: rgb(35,47,57);
+    font-size: 30px;
+    margin: 20px;
+}
+
+.acc-name {
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.acc {
+    font-size: 45px;
+    color: rgb(35,47,57);
+}
+
+.acc-type {
+    margin-bottom: 1000px;
+}
+
+.balance {
+    margin: 30px;
+    font-size: 15px;
+}
+
+.bal{
+    margin: 20px 0 30px 0;
+}
+
+.heading {
+    font-size: 30px;
+    margin: 20px;
+    color: rgb(35,47,57);
+}
+
+.acc-container {
+    color: aliceblue;
+    background: rgb(35,47,57);
+}
+
+.line{
+    width: 97%;
+    color: rgb(46 62 74);
+    margin: 20px 0;
+}
+.txtboxes {
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    padding: 0 10px;
+    margin: 15px;
+}
+
+.txtboxes-main {
+    border: none;
+    background-color: rgb(223, 234, 250);
+    border-radius: 40px;
+    height: 30px;
+    padding: 0 10px;
+    margin: 15px;
+}
+
+.trans {
+    font-size: 30px;
+    color: rgb(35,47,57);
+}
+
+#btnAdd{
+    margin-bottom: 15px;
+}
+#btnAdd2 {
+    margin-bottom: 15px;
+}
