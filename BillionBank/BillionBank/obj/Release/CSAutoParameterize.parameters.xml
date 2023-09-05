@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BilliBankConnectionString-Web.config Connection String" description="BilliBankConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-2R74SUD\SQLEXPRESS;Initial Catalog=BilliBank;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Admin-Nkosi\.N\\Downloads\\BillionBank\\BillionBank\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BilliBankConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="BilliBankConnectionString2-Web.config Connection String" description="BilliBankConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Data Source=ZAPRE-D00000540\SQLEXPRESS;Initial Catalog=BilliBank;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Admin-Nkosi\.N\\Downloads\\BillionBank\\BillionBank\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BilliBankConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="BilliBankConnectionString3-Web.config Connection String" description="BilliBankConnectionString3 Connection String used in web.config by the application to access the database." defaultValue="Data Source=ZAPRE-D00000532\SQLEXPRESS;Initial Catalog=BilliBank;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Admin-Nkosi\.N\\Downloads\\BillionBank\\BillionBank\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BilliBankConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="BilliBankConnString-Web.config Connection String" description="BilliBankConnString Connection String used in web.config by the application to access the database." defaultValue="Data Source=NKOSIN419L;Initial Catalog=BilliBank;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Admin-Nkosi\.N\\Downloads\\BillionBank\\BillionBank\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BilliBankConnString']/@connectionString" />
+  </parameter>
+</parameters>
