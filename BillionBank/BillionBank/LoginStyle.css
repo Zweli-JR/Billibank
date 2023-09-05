@@ -1,0 +1,52 @@
+﻿body {
+    background: rgb(29,29,29);
+}
+
+#cont {
+    background: rgb(35,47,57);
+    color: #fff;
+    font-family: 'Malgun Gothic';
+    padding: 30px 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 29px;
+}
+
+.wrap {
+    background: rgb(35,47,57);
+    color: #fff;
+    font-family: 'Malgun Gothic';
+    padding: 30px 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 29px;
+}
+
+.links {
+    border: none;
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+.txtboxes {
+    border: none;
+    width: 100%;
+    border-radius: 50px;
+    height: 25px;
+    padding: 0 10px;
+    margin: 5px;
+}
+
+.buttons {
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    height: 30px;
+    width: 60px;
+    cursor:pointer;
+}
