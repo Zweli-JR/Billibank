@@ -1,2 +1,1 @@
-# Billibank
-A banking website
+# A project where I created a banking website
